@@ -5,9 +5,12 @@
  
  ## how to use 
  1 - This app used to download single video or playlist so firstly should to choose type of download.
+ 
  2 - Copy link of the video and just click ***P*** button to paste link and searching for video.
+ 
  - *Note: if you want to download playlist, you need to copy the link for any video in that playlist not the playlist itself*.
  - ***C*** button is used to clear url box.
+ 
  3 - Then choose quality of the video and select directory
  
  ## linking to database
