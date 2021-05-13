@@ -1,7 +1,7 @@
 # youtube_downloader
  python script for downloading videos from youtube with multiple qualities. 
  I used tkinter lib for GUI.
- you will find an extension file you can us it as a desktop app.
+ you will find an extension file you can as it as a desktop app.
  
  ## how to use 
  1 - This app used to download single video or playlist so firstly should to choose type of download.
